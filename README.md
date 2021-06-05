@@ -1,10 +1,12 @@
 # Simulaciones
 <h1>Tarea 1:Simulacion Dados</h1>
 Codigo Fuente: <A HREF="https://github.com/jhtc5898/Simulaciones/blob/main/Dados/Dados.ipynb"> Codigo </A>
+<br>
 Informe: <A HREF="https://github.com/jhtc5898/Simulaciones/blob/main/Dados/Dados%20Informe.docx"> Informe </A>
 
 <h1>Tarea 2:Regresion Covid</h1>
 Codigo Fuente: <A HREF="https://github.com/jhtc5898/Simulaciones/blob/main/Regresion%20Covid/RegresionLineal.ipynb"> Codigo </A>
+<br>
 Informe: <A HREF="https://github.com/jhtc5898/Simulaciones/blob/main/Regresion%20Covid/Informe_RegresionCovid-convertido.pdf"> Informe </A>
 
 
