@@ -41,6 +41,7 @@ Prueba 1: <A HREF="https://github.com/jhtc5898/Simulaciones/tree/main/Prueba"> C
 
 <h1>Examenes</h1>
 Codigo Fuente: <A HREF="https://github.com/jhtc5898/Simulaciones/blob/main/Dados/Dados.ipynb"> Codigo </A>
+<br>
 Informe: <A HREF="https://github.com/jhtc5898/Simulaciones/blob/main/Dados/Dados%20Informe.docx"> Informe </A>
 
 
