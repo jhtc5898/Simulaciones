@@ -47,9 +47,10 @@ Juego De La Vida: <A HREF="https://github.com/jhtc5898/Simulaciones/tree/main/Ju
 Prueba 1: <A HREF="https://github.com/jhtc5898/Simulaciones/tree/main/Prueba"> Codigo </A>
 
 <h1>Examenes</h1>
-Codigo Fuente: <A HREF="https://github.com/jhtc5898/Simulaciones/blob/main/Dados/Dados.ipynb"> Codigo </A>
+Interciclo Punto 2: <A HREF="https://github.com/jhtc5898/Simulaciones/blob/main/Examen%20Simulacion/Examen%20Simulacion%20Punto%202.ipynb"> Codigo </A>
 <br>
-Informe: <A HREF="https://github.com/jhtc5898/Simulaciones/blob/main/Dados/Dados%20Informe.docx"> Informe </A>
+Interciclo Punto 1: <A HREF="https://github.com/jhtc5898/Simulaciones/blob/main/Examen%20Simulacion/Examen%20Simulacion.ipynb"> Codigo </A>
+
 
 
 
