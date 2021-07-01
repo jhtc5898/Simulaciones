@@ -46,6 +46,8 @@ Juego De La Vida: <A HREF="https://github.com/jhtc5898/Simulaciones/tree/main/Ju
 <h1>Pruebas</h1>
 Prueba 1: <A HREF="https://github.com/jhtc5898/Simulaciones/tree/main/Prueba"> Codigo </A>
 
+Prueba 2 PyGame: <A HREF="https://github.com/jhtc5898/Simulaciones/tree/main/Prueba%202%20Simulacion%20pygame"> Codigo </A>
+
 <h1>Examenes</h1>
 Interciclo Punto 2: <A HREF="https://github.com/jhtc5898/Simulaciones/blob/main/Examen%20Simulacion/Examen%20Simulacion%20Punto%202.ipynb"> Codigo </A>
 <br>
